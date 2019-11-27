@@ -1,5 +1,7 @@
-定投的数学原理
+欢迎你在这里分享和了解定投的数学问题。我们已经和正在解决的问题有：
 
-策略选择
+- 哪种定投的策略最适合你？（[已解](regular_investment_strategy_zh.pdf）
 
-免费BTC
+- 你能永远领取Mixin免费的BTC吗？（[已解](MIXIN_BOX-v1.0.pdf）
+
+如果你对这两个问题的答案有疑问，可以在[issues](https://github.com/yijunyu/regular-invest-maths/issues)里面提出。
