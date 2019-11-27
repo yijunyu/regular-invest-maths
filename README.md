@@ -4,4 +4,4 @@
 
 - 你能永远领取Mixin免费的BTC吗？（[已解](Mixin_BTC-v1.0.pdf))
 
-如果你对这些问题的答案有疑问，可以在[issues](https://github.com/yijunyu/regular-invest-maths/issues)里面提出。
+如果你对这些问题的答案有疑问，可以在[这里](https://github.com/yijunyu/regular-invest-maths/issues)提出。
