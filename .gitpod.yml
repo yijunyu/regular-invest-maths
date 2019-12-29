@@ -4,5 +4,5 @@ ports:
 - port: 8888
   onOpen: open-browser
 tasks:
-- init: /workspace/maths/run.sh
-  command: cp -r /workspace/maths/.jupyter /home/gitpod/
+- init: /workspace/regular-invest-maths/run.sh
+  command: cp -r /workspace/regular-invest-maths/.jupyter /home/gitpod/
