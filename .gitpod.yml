@@ -5,6 +5,10 @@ ports:
   onOpen: open-preview
 - port: 8888
   onOpen: open-browser
+- port: 8889
+  onOpen: open-browser
+- port: 8890
+  onOpen: open-browser
 tasks:
 - init: /workspace/regular-invest-maths/run.sh
   command: cp -r /workspace/regular-invest-maths/.jupyter /home/gitpod/
