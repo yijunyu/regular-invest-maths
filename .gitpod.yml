@@ -11,3 +11,4 @@ ports:
   onOpen: open-browser
 tasks:
 - command: cp -r /workspace/regular-invest-maths/.jupyter /home/gitpod/
+  command: jupyter notebook
